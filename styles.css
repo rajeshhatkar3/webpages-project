@@ -1,0 +1,83 @@
+body {
+	background-color: #f2f2f2;
+	background-image: url("https://rajeshhatkar1.s3.us-east-2.amazonaws.com/sky-animated.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: Arial, sans-serif;
+	color: #333;
+}
+
+
+
+header {
+	background-color: #333;
+	color: #5718e9;
+	padding: 20px;
+}
+
+.logo {
+	color: #fff;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+nav a {
+	color: #14db25;
+	text-decoration: none;
+}
+
+.container {
+	margin: 20px;
+}
+
+table {
+	border-collapse: collapse;
+	border: 2px solid black;
+	width: 100%;
+}
+
+th, td {
+	padding: 8px;
+	text-align: left;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	color: #bda5a5;
+	background-color: #361a1a;
+}
+
+h1 {
+	color: #FF0000; /* Red */
+}
+
+a {
+	color: #0000FF; /* Blue */
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+body {
+    font-family: "Helvetica", sans-serif;
+    color: #333;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: #FF0000; /* Red */
+}
+
+a {
+    color: #0000FF; /* Blue */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    color: #081b0d; /* Dark Gray */
+}
